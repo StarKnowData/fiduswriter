@@ -100,4 +100,5 @@ INSTALLED_APPS = [
 # A list of allowed hostnames of this Fidus Writer installation
 ALLOWED_HOSTS = [
     'localhost',
+    'http://ip172-18-0-41-bni93rrjagq0008uj5m0-8000.direct.labs.play-with-docker.com/',
 ]
